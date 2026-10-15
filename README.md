@@ -46,11 +46,19 @@ Take readings for different values of input voltage and tabulate them. CIRCUIT D
 
 a. KVL:
 
+
+<img width="1195" height="637" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/c6321f5b-00b9-4117-9b31-0113bea7e1d1" />
+
+
 b. KCL:
+
+<img width="970" height="732" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/0ef227df-1615-4243-aec5-9606fc496c44" />
+
 
 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗜𝗢𝗡:
 
 a. KVL:
+
 
 b. KCL:
 
