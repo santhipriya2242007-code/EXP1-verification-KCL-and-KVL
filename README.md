@@ -71,6 +71,15 @@ b. KCL:
 
 <img width="720" height="1600" alt="KCL2" src="https://github.com/user-attachments/assets/d32e0362-0ab9-4980-8585-5281085d4be8" />
 
+Tabulation:
+a. KVL:
+
+<img width="720" height="481" alt="WhatsApp Image 2026-10-17 at 10 05 51 AM" src="https://github.com/user-attachments/assets/f781a2dc-5c9b-4a0c-b883-43f958516e27" />
+
+b. KCL:
+
+<img width="720" height="481" alt="WhatsApp Image 2026-10-17 at 10 05 51 AM" src="https://github.com/user-attachments/assets/8df4dfc3-04ec-44c1-8e8a-1b6c93a3ab1c" />
+
 
 𝗥𝗘𝗦𝗨𝗟𝗧:
 
